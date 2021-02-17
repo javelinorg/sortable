@@ -7,9 +7,9 @@ A plugin/wrapper around [Shopify's sortable package](https://github.com/Shopify/
 ### CDN
 ```html
 https://cdn.jsdelivr.net/gh/javelinorg/sortable@master/dist/livewire-sortable.js
-```
 
 ```
+
 ## Usage
 
 For simple layouts that only require simple sorting like a todo list, add the `wire:sortable`, `wire:sortable.item`, and `wire:sortable.handle` attributes to your markup as follows.
