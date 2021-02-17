@@ -1,4 +1,4 @@
-# Livewire Sortable
+# Livewire Sortable work's with 3rd level
 
 A plugin/wrapper around [Shopify's sortable package](https://github.com/Shopify/draggable/tree/master/src/Sortable). It makes implementing sortable interfaces super simple using Livewire.
 
@@ -6,18 +6,9 @@ A plugin/wrapper around [Shopify's sortable package](https://github.com/Shopify/
 
 ### CDN
 ```html
-<script src="https://cdn.jsdelivr.net/gh/livewire/sortable@v0.x.x/dist/livewire-sortable.js"></script>
+https://cdn.jsdelivr.net/gh/javelinorg/sortable@master/dist/livewire-sortable.js
 ```
 
-### NPM
-```
-npm install livewire-sortable --save-dev
-```
-Import the package in your bundle:
-```
-import 'livewire-sortable'
-// Or.
-require('livewire-sortable')
 ```
 ## Usage
 
